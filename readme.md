@@ -1,6 +1,6 @@
 
 <h1>Hey there, I'm Gabriel Fuentes</h1>
-<h3>just a computer science student dreaming of becoming a really good developer.</h3>
+
 
 
 <div>
