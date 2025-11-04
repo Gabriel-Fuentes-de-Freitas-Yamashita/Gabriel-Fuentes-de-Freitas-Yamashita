@@ -1,5 +1,5 @@
 
-<h3>Hey there, I'm Gabriel Fuentes</h3>
+<h3>Hey there, just a computer science student dreaming of becoming a really good developer here</h3>
 
 
 
